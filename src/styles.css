@@ -16,8 +16,8 @@ p {
 
 button {
   padding: 10px;
-  background-color: blue;
-  color: white;
+  background-color: rgb(56, 56, 218);
+  color: rgb(194, 36, 36);
   font-size: 1.2em;
   border-radius: 10px;
   cursor: pointer;
